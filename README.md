@@ -30,6 +30,8 @@
 | [<img src="https://homarr.dev/img/logo.png" width="20"/> homarr](https://github.com/ajnart/homarr) | A sleek, modern dashboard that puts all of your apps and services at your fingertips. | Open Source |
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Homer is a dead simple static HOMepage for your server to keep your services and favorite links on hand, based on a simple yaml configuration file. | Open Source |
 
+https://squidfunk.github.io/mkdocs-material/
+
 ## Monitoring and Reporting
 | Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
@@ -74,6 +76,8 @@
 | <img src="https://www.rundeck.com/hubfs/Pager%20Duty%20Branding/rundeck-chevron-green.svg" width="20"/>&nbsp;&nbsp;[Rundeck](https://www.rundeck.com/)| Ansible UI | Open Source / Enterprise|
 | <img src="https://podman.io/favicon.ico" width="20"/>&nbsp;&nbsp; [podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
 | <img src="https://robotframework.org/img/icons/favicon-32x32.png" width="20"/> [ROBOT FRAMEWORK](https://robotframework.org/)| Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)| Open Source|
+
+https://github.com/ansible/awx
 
 ## Coding Stuff
 
