@@ -30,7 +30,6 @@
 | [<img src="https://homarr.dev/img/logo.png" width="20"/> homarr](https://github.com/ajnart/homarr) | A sleek, modern dashboard that puts all of your apps and services at your fingertips. | Open Source |
 | <img src="https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png" width="20"/>&nbsp;&nbsp;[homer](https://github.com/bastienwirtz/homer)| Homer is a dead simple static HOMepage for your server to keep your services and favorite links on hand, based on a simple yaml configuration file. | Open Source |
 
-https://squidfunk.github.io/mkdocs-material/
 
 ## Monitoring and Reporting
 | Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
@@ -70,6 +69,7 @@ https://squidfunk.github.io/mkdocs-material/
 | Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| Open Source |
+|[AWX](https://github.com/ansible/awx)| AWX is an open-source, web-based automation platform that provides a user interface, REST API, and task engine for managing Ansible automation tasks. | Open Source |
 | <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful browser based GUI for Ansible| Open Source |
 | <img src="https://avatars.githubusercontent.com/u/142061836?s=48&v=4" width="20"/>&nbsp;&nbsp;[Opentofu](https://opentofu.org/)|The open source infrastructure as code tool. Alternative to Terraform| Open Source |
 | <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| Open Source / Enterprise |
@@ -77,7 +77,6 @@ https://squidfunk.github.io/mkdocs-material/
 | <img src="https://podman.io/favicon.ico" width="20"/>&nbsp;&nbsp; [podmann](https://podman.io/)|Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|OpenSource|
 | <img src="https://robotframework.org/img/icons/favicon-32x32.png" width="20"/> [ROBOT FRAMEWORK](https://robotframework.org/)| Robot Framework is a generic open source automation framework. It can be used for test automation and robotic process automation (RPA)| Open Source|
 
-https://github.com/ansible/awx
 
 ## Coding Stuff
 
@@ -93,6 +92,9 @@ https://github.com/ansible/awx
 | <img src="https://avatars.githubusercontent.com/u/38656520?s=48&v=4" width="15"/>&nbsp;[Renovate](https://github.com/renovatebot/renovate)| Renovate is an automated dependency update tool. It helps to update dependencies in your code without needing to do it manually. | Open Source |
 |<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="15"/>&nbsp;&nbsp;[Gitea](https://about.gitea.com/)| Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses. | Open Source / Enterprise |
 
+## Documentation
+
+https://squidfunk.github.io/mkdocs-material/
 
 ## Finanz Tools
 
