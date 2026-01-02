@@ -61,7 +61,7 @@
 | Application  | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Opnsense-logo.svg" width="80"/>&nbsp;&nbsp;&nbsp;[Open Sense](https://opnsense.org) | OPNsense® is an open source, feature rich firewall and routing platform, offering cutting-edge network protection. | Open Source |
-| <img src="https://avatars.githubusercontent.com/u/100464677?s=48&v=4" width="20"/>&nbsp;[Netbird](https://netbird.io/)|NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home| 5 users free |
+| <img src="https://avatars.githubusercontent.com/u/100464677?s=24&v=4" width="20"/>&nbsp;[Netbird](https://netbird.io/)|NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home| 5 users free |
 | <img src="https://tailscale.com/favicon.png" width="20"/>&nbsp; [tailscale](https://tailscale.com/)| Fast, seamless device connectivity — no hardware, no firewall rules, no wasted time. | 3 users free |
 | <img src="https://framerusercontent.com/images/e76KKdP64F9YgzYu302f5fcNbcw.png" width="20"/>&nbsp;  [Twingate](https://www.twingate.com/)| Go Beyond VPN | 5 users  free|
 
@@ -69,7 +69,7 @@
 | Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | License Model |
 | --- | --- | --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" width="20"/>&nbsp;&nbsp;[Ansible](https://www.redhat.com/en/ansible-collaborative)|Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.| Open Source |
-|[AWX](https://github.com/ansible/awx)| AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. | Open Source |
+| <img src="https://avatars.githubusercontent.com/u/1507452?s=24&v=4"/>&nbsp;&nbsp;[AWX](https://github.com/ansible/awx)| AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. | Open Source |
 | <img src="https://avatars.githubusercontent.com/u/98574287?s=48&v=4" width="20"/>&nbsp;&nbsp;[SemaphoreUI](https://semaphoreui.com/)|Powerful browser based GUI for Ansible| Open Source |
 | <img src="https://avatars.githubusercontent.com/u/142061836?s=48&v=4" width="20"/>&nbsp;&nbsp;[Opentofu](https://opentofu.org/)|The open source infrastructure as code tool. Alternative to Terraform| Open Source |
 | <img src="https://avatars.githubusercontent.com/u/59033362?s=200&v=4" width="20"/>&nbsp;&nbsp;[Kestra](https://kestra.io/)| Unify orchestration for all engineers. Build and govern all your workflows — Everything-as-Code, and from the UI.| Open Source / Enterprise |
@@ -90,7 +90,7 @@
 | <img src="https://material.angular.dev/assets/img/favicon.ico?v=19.1.0" width="15"/>&nbsp;&nbsp;[Angular](https://material.angular.io) | Material Design components for Angular  | Open Source |
 | <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" width="15"/>&nbsp;&nbsp;[Swagger](https://swagger.io) | Swagger UI is prject to visually render documentation for an API defined with the OpenAPI (Swagger) definition  | Open Source |
 | <img src="https://avatars.githubusercontent.com/u/38656520?s=48&v=4" width="15"/>&nbsp;[Renovate](https://github.com/renovatebot/renovate)| Renovate is an automated dependency update tool. It helps to update dependencies in your code without needing to do it manually. | Open Source |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="15"/>&nbsp;&nbsp;[Gitea](https://about.gitea.com/)| Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses. | Open Source / Enterprise |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="20"/>&nbsp;&nbsp;[Gitea](https://about.gitea.com/)| Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses. | Open Source / Enterprise |
 
 ## Documentation
 
